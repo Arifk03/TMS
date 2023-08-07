@@ -10,12 +10,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="InfraStructure\Connection\" />
-    <Folder Include="InfraStructure\Authentication\" />
-    <Folder Include="InfraStructure\AutoMapper\" />
-    <Folder Include="InfraStructure\Extention\" />
-    <Folder Include="InfraStructure\Installer\" />
-  </ItemGroup>
-
 </Project>
